@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"hyperlink-reloaded",
+			"neo",
+			[
+				20,
+				40,
+				140
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "very-hard",
+	"weekCharacters": [
+		"tankman",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

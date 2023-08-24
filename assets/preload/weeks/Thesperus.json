@@ -1,0 +1,32 @@
+{
+	"storyName": "smile of the year",
+	"difficulties": "Hard, Happy",
+	"hideFreeplay": false,
+	"weekBackground": "thesperus",
+	"weekBefore": "jevil",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"smile-award",
+			"thesperus",
+			[
+				255,
+				0,
+				120
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

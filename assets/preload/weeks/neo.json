@@ -1,0 +1,32 @@
+{
+	"storyName": "BIG SHOT",
+	"difficulties": "Normal, Hard, Neo",
+	"hideFreeplay": false,
+	"weekBackground": "neo",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"HYPERLINK",
+			"neo",
+			[
+				215,
+				200,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

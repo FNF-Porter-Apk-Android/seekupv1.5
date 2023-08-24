@@ -1,0 +1,32 @@
+{
+	"storyName": "all stars (ft. Boyfriend)",
+	"difficulties": "Easy, Normal, Hard, Bonus",
+	"hideFreeplay": false,
+	"weekBackground": "balls",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"all-stars",
+			"no",
+			[
+				75,
+				95,
+				155
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

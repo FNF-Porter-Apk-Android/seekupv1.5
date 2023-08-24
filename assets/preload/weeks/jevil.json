@@ -1,0 +1,32 @@
+{
+	"storyName": "chaos chaos chaos chaos chaos chaos chaos chaos chaos chaos chaos chaos ch",
+	"difficulties": "Easy, Normal, Hard, Chaos",
+	"hideFreeplay": false,
+	"weekBackground": "jevil",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"ragdoll-chaos",
+			"jevil",
+			[
+				60,
+				80,
+				120
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Joker",
+	"hiddenUntilUnlocked": false
+}

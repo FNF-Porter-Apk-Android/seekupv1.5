@@ -1,0 +1,32 @@
+{
+	"storyName": "its pronnounced rules",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "rouxls",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"chips-ahoyeth",
+			"eth",
+			[
+				146,
+				253,
+				95
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

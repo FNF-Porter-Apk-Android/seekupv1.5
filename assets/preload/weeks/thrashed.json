@@ -1,0 +1,32 @@
+{
+	"storyName": "thrashed (vs. susie & lancer)",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "kungfupanda",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"thrashed",
+			"susie",
+			[
+				146,
+				53,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "who tf resets their score"
+}
