@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="berdly.png"><SubTexture name="berdly idle0000" x="847" y="2565" width="868" height="601" frameX="-8" frameY="-298" frameWidth="900" frameHeight="900" />
+<SubTexture name="berdly idle0001" x="1715" y="2565" width="861" height="599" frameX="-10" frameY="-301" frameWidth="900" frameHeight="900" />
+<SubTexture name="berdly idle0002" x="0" y="2565" width="847" height="608" frameX="-15" frameY="-292" frameWidth="900" frameHeight="900" />
+<SubTexture name="berdly idle0003" x="1668" y="1939" width="843" height="616" frameX="-17" frameY="-284" frameWidth="900" frameHeight="900" />
+<SubTexture name="berdly idle0004" x="825" y="1939" width="843" height="619" frameX="-17" frameY="-281" frameWidth="900" frameHeight="900" />
+<SubTexture name="berdly idle0005" x="825" y="1939" width="843" height="619" frameX="-17" frameY="-281" frameWidth="900" frameHeight="900" />
+<SubTexture name="berdly down0000" x="872" y="3173" width="880" height="564" frameX="-1" frameY="-335" frameWidth="900" frameHeight="900" />
+<SubTexture name="berdly down0001" x="0" y="3173" width="872" height="577" frameX="-2" frameY="-323" frameWidth="900" frameHeight="900" />
+<SubTexture name="berdly down0002" x="3185" y="0" width="868" height="581" frameX="-2" frameY="-319" frameWidth="900" frameHeight="900" />
+<SubTexture name="berdly right0000" x="1578" y="0" width="783" height="640" frameX="-76" frameY="-260" frameWidth="900" frameHeight="900" />
+<SubTexture name="berdly right0001" x="0" y="1301" width="804" height="638" frameX="-55" frameY="-262" frameWidth="900" frameHeight="900" />
+<SubTexture name="berdly right0002" x="804" y="1301" width="813" height="637" frameX="-47" frameY="-262" frameWidth="900" frameHeight="900" />
+<SubTexture name="berdly left0000" x="0" y="1939" width="825" height="626" frameX="0" frameY="-274" frameWidth="900" frameHeight="900" />
+<SubTexture name="berdly left0001" x="2361" y="0" width="824" height="629" frameX="0" frameY="-271" frameWidth="900" frameHeight="900" />
+<SubTexture name="berdly left0002" x="2361" y="629" width="821" height="628" frameX="-3" frameY="-272" frameWidth="900" frameHeight="900" />
+<SubTexture name="berdly up0000" x="0" y="0" width="781" height="656" frameX="-50" frameY="-244" frameWidth="900" frameHeight="900" />
+<SubTexture name="berdly up0001" x="781" y="0" width="797" height="649" frameX="-45" frameY="-251" frameWidth="900" frameHeight="900" />
+<SubTexture name="berdly up0002" x="0" y="656" width="805" height="645" frameX="-42" frameY="-255" frameWidth="900" frameHeight="900" />
+</TextureAtlas>

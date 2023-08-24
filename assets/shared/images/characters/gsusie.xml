@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gsusie.png"><SubTexture name="gsusie idle0000" x="4298" y="2443" width="663" height="810" frameX="-213" frameY="-131" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie idle0001" x="766" y="3589" width="669" height="807" frameX="-207" frameY="-134" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie idle0002" x="4298" y="1632" width="669" height="811" frameX="-206" frameY="-130" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie idle0003" x="4298" y="817" width="664" height="815" frameX="-210" frameY="-126" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie idle0004" x="3635" y="0" width="663" height="818" frameX="-211" frameY="-123" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie idle0005" x="3635" y="0" width="663" height="818" frameX="-211" frameY="-123" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie idle0006" x="3635" y="0" width="663" height="818" frameX="-211" frameY="-123" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie down0000" x="683" y="1912" width="682" height="837" frameX="-200" frameY="-116" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie down0001" x="2228" y="0" width="667" height="869" frameX="-205" frameY="-85" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie down0002" x="621" y="1000" width="661" height="873" frameX="-206" frameY="-81" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie right0000" x="2158" y="2758" width="689" height="828" frameX="-250" frameY="-117" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie right0001" x="2847" y="2758" width="687" height="822" frameX="-241" frameY="-123" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie right0002" x="4298" y="0" width="688" height="817" frameX="-235" frameY="-127" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie up0000" x="1000" y="0" width="610" height="928" frameX="-242" frameY="-20" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie up0001" x="1610" y="0" width="618" height="919" frameX="-239" frameY="-28" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie up0002" x="0" y="1000" width="621" height="912" frameX="-238" frameY="-34" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie left0000" x="2837" y="3589" width="710" height="796" frameX="-170" frameY="-145" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie left0001" x="2133" y="3589" width="704" height="803" frameX="-175" frameY="-138" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie left0002" x="1435" y="3589" width="698" height="804" frameX="-180" frameY="-137" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie die0000" x="3635" y="0" width="663" height="818" frameX="-211" frameY="-123" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie die0001" x="2228" y="869" width="650" height="862" frameX="-220" frameY="-104" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie die0002" x="1282" y="1000" width="716" height="872" frameX="-217" frameY="-85" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie die0003" x="1365" y="1912" width="715" height="831" frameX="-215" frameY="-127" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie die0004" x="2080" y="1912" width="732" height="831" frameX="-215" frameY="-127" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie die0005" x="2895" y="0" width="740" height="831" frameX="-215" frameY="-127" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie die0006" x="0" y="2758" width="744" height="831" frameX="-215" frameY="-127" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie die0007" x="2895" y="831" width="707" height="831" frameX="-215" frameY="-127" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie die0008" x="2895" y="1662" width="707" height="831" frameX="-215" frameY="-127" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie die0009" x="744" y="2758" width="707" height="831" frameX="-215" frameY="-127" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie die0010" x="1451" y="2758" width="707" height="831" frameX="-215" frameY="-127" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie die0011" x="0" y="1912" width="683" height="846" frameX="-251" frameY="-107" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie die0012" x="0" y="3589" width="766" height="817" frameX="-171" frameY="-104" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie die0013" x="3547" y="3589" width="700" height="754" frameX="-222" frameY="-127" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie die0014" x="4247" y="3589" width="706" height="642" frameX="-143" frameY="-237" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie die0015" x="0" y="0" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie die0016" x="0" y="0" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gsusie die0017" x="0" y="0" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

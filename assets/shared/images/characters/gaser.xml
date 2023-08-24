@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gaser.png"><SubTexture name="gaser idle0000" x="2022" y="546" width="502" height="545" frameX="-147" frameY="-200" frameWidth="800" frameHeight="800" />
+<SubTexture name="gaser idle0001" x="2022" y="1091" width="493" height="544" frameX="-151" frameY="-201" frameWidth="800" frameHeight="800" />
+<SubTexture name="gaser idle0002" x="946" y="660" width="485" height="551" frameX="-155" frameY="-194" frameWidth="800" frameHeight="800" />
+<SubTexture name="gaser idle0003" x="1437" y="561" width="477" height="560" frameX="-159" frameY="-185" frameWidth="800" frameHeight="800" />
+<SubTexture name="gaser idle0004" x="472" y="660" width="474" height="568" frameX="-162" frameY="-177" frameWidth="800" frameHeight="800" />
+<SubTexture name="gaser idle0005" x="0" y="660" width="472" height="570" frameX="-164" frameY="-175" frameWidth="800" frameHeight="800" />
+<SubTexture name="gaser right0000" x="584" y="1230" width="586" height="552" frameX="-84" frameY="-191" frameWidth="800" frameHeight="800" />
+<SubTexture name="gaser right0001" x="0" y="1230" width="584" height="559" frameX="-99" frameY="-185" frameWidth="800" frameHeight="800" />
+<SubTexture name="gaser right0002" x="1437" y="0" width="585" height="561" frameX="-109" frameY="-183" frameWidth="800" frameHeight="800" />
+<SubTexture name="gaser up0000" x="0" y="0" width="462" height="660" frameX="-147" frameY="-86" frameWidth="800" frameHeight="800" />
+<SubTexture name="gaser up0001" x="462" y="0" width="483" height="645" frameX="-137" frameY="-100" frameWidth="800" frameHeight="800" />
+<SubTexture name="gaser up0002" x="945" y="0" width="492" height="637" frameX="-133" frameY="-107" frameWidth="800" frameHeight="800" />
+<SubTexture name="gaser left0000" x="0" y="1789" width="603" height="542" frameX="-21" frameY="-201" frameWidth="800" frameHeight="800" />
+<SubTexture name="gaser left0001" x="1170" y="1230" width="593" height="546" frameX="-30" frameY="-198" frameWidth="800" frameHeight="800" />
+<SubTexture name="gaser left0002" x="2022" y="0" width="586" height="546" frameX="-36" frameY="-198" frameWidth="800" frameHeight="800" />
+<SubTexture name="gaser down0000" x="603" y="1789" width="514" height="511" frameX="-140" frameY="-283" frameWidth="800" frameHeight="800" />
+<SubTexture name="gaser down0001" x="1117" y="1789" width="490" height="510" frameX="-153" frameY="-261" frameWidth="800" frameHeight="800" />
+<SubTexture name="gaser down0002" x="1607" y="1789" width="479" height="505" frameX="-160" frameY="-255" frameWidth="800" frameHeight="800" />
+</TextureAtlas>

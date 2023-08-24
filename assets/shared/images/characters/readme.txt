@@ -1,1 +1,1 @@
-SUBSCRIBE IN GLAUBER01 OM YOUTUBE
+Put your custom character image and .xml/.txt files here!
