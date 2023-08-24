@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				4,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "noelle idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "noelle right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "noelle left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "noelle down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "noelle up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/noelle",
+	"position": [
+		-235,
+		-10
+	],
+	"healthicon": "noelle",
+	"flip_x": true,
+	"healthbar_colors": [
+		232,
+		231,
+		172
+	],
+	"camera_position": [
+		-560,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 0.75
+}
