@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"the-end",
+			"gaster",
+			[
+				0,
+				0,
+				20
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "End",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "the end",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "",
+	"startUnlocked": true
+}
