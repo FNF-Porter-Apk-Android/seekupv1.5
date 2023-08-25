@@ -12,15 +12,15 @@
 	],
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
-	"weekBackground": "End",
-	"difficulties": "",
+	"weekBackground": "voidg",
+	"difficulties": "Hard",
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"storyName": "the end",
-	"weekName": "Custom Week",
+	"storyName": "the-end",
+	"weekName": "the-end",
 	"freeplayColor": [
 		146,
 		113,
@@ -30,3 +30,5 @@
 	"weekBefore": "",
 	"startUnlocked": true
 }
+
+my week custom by glauber01 lol
